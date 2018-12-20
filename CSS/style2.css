@@ -1,0 +1,109 @@
+h2 {
+  	color: red;
+	font-size: 20px;
+	font-family: Helvetica;
+}
+
+body {
+ 	color: rgb(30, 30, 30); 
+}
+
+.container-mobile {
+  width: 414px;
+  background-color: white;
+/*  text-align: center;
+*/  margin: auto;
+  min-height: 100vh;
+  padding: 0px 5px;
+}
+
+body {
+  margin: 0px;
+  background-color: black;
+}
+
+.logo img {
+    width: 130px;
+    margin-left: 5px;
+    margin-top: 15px;
+}
+
+.center {
+	text-align: center;
+}
+
+h1,h2,h3,h4 { 
+  margin-top: 30px;
+  margin-left:
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  font-size: 24px;
+  color: #973C3D;
+  font-family: "Montserrat";
+  }
+
+h1 {
+  margin-top: 20px;
+}
+
+
+.restaurants {
+  background-image: url("../images/rectangle.jpg");
+  width: 341px;
+  height: 139px;
+  margin-left: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+  margin-top: 37px;
+}
+
+
+.recettes {
+  background-image: url("../images/rectangle2.jpg");
+  width: 341px;
+  height: 80px;
+  margin-left: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+
+.conseils {
+  background-image: url("../images/rectangle3.jpg");
+  width: 341px;
+  height: 79px;
+  margin-left: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+
+.forum {
+  background-image: url("../images/rectangle4.jpg");
+  width: 341px;
+  height: 79px;
+  margin-left: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bas img {
+  background-image: url("../images/bas.jpg");
+  width: 360px;
+  height: 45px;
+  margin-top: 80px;
+}
+
+
+a:link 
+{ 
+text-decoration:none; 
+} 

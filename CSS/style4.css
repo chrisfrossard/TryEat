@@ -1,0 +1,116 @@
+.container-mobile {
+  width: 414px;
+  background-color: white;
+  text-align: center;
+  margin: auto;
+  min-height: 100vh;
+  padding: 0px 0px;
+}
+
+body {
+  margin: 0px;
+  background-color: black;
+}
+
+.nom {
+  text-align: left;
+  margin-left: 10px;
+  font-family:'Montserrat', sans-serif;
+}
+
+.bandeau img{
+  width: 414px;
+}
+
+.logo img{
+  width: 130;
+  margin-top: -180;
+  margin-left: -270;
+}
+
+.ingred img{
+  width: 57px;
+  padding: 4px 4px;
+  margin-top: -15;
+}
+
+.titre {
+  text-align: left;
+  margin-left: 10px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.val {
+  margin-top: -34px;
+  margin-left: 157;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.glut img{
+  width: 80px;
+  margin-left: -325;
+  margin-top: -15;
+}
+
+.kcal {
+  margin-left: 60;
+  margin-top: -88;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.lip {
+  margin-left: 15;
+  margin-top: -7;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.gluc {
+  margin-left: 40;
+  margin-top: -8;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.prot {
+  margin-left: 37;
+  margin-top: -8;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.sel {
+  margin-left: -13;
+  margin-top: -8;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.carte img{
+  width: 414px;
+}
+
+.comm img{
+  margin-left: -210;
+  width: 150px;
+  margin-top: 25;
+}
+
+.res img{
+  width: 150px;
+  margin-left: 210;
+  margin-top: -79;
+}
+
+.dans {
+  margin-top: 20;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.soupe img{
+  width: 120;
+  margin-top: 0;
+  margin-left: -190
+}
+
+.sushi img{
+  width: 120;
+  margin-top: -75;
+  margin-left: 130;
+}

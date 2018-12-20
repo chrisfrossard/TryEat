@@ -1,0 +1,61 @@
+.container-mobile {
+  width: 375px;
+  background-image: url("../images/ImageFond.jpg");
+  text-align: center;
+  margin: auto;
+/*  min-height: 100vh;
+*/  padding: 0px 5px;
+  height: 666px;
+  background-size: cover;
+  position: relative;
+  }
+
+body {
+  margin: 0px;
+  background-color: black;
+}
+
+.bouton img{
+	position: absolute;
+	bottom:10px;
+	left:10px;
+	width: 325px;
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+
+.barre01 input {
+    margin-top: 320;
+    width: 300;
+    height: 30;
+}
+
+.barre02 input {
+    width: 300;
+    height: 30;
+    margin-top: 30;
+}
+
+h1 { 
+	font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 18px;
+margin-top: -118;
+margin-left: -230;
+color: #EFEFEF;
+}
+
+h2 { 
+	font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 18px;
+color: #EFEFEF;
+margin-top: 40;
+margin-left: -170;
+}
+
+

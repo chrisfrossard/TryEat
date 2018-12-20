@@ -1,0 +1,167 @@
+.container-mobile {
+  width: 414px;
+  background-color: white;
+  /* text-align: center;
+  */
+  margin: auto;
+  min-height: 100vh;
+  padding: 0px 5px;
+}
+
+body {
+  margin: 0px;
+  background-color: black;
+}
+
+h1 {
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+font-size: 24px;
+text-align: center;
+margin-top: 2;
+
+color: #682122;
+}
+
+h2,h3,h4,h5,h6 {
+	margin: 40px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 14px;
+
+color: #682122;
+}
+
+p {font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 10px;
+
+color: #000000;
+}
+
+input {
+margin: 40px;
+width: 301px;
+height: 21px;
+background: #EFEFEF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.bouton img {
+    width: 300px;
+    margin-left: 55px;
+    margin-top: 30px;
+}
+.logo img  {
+    width: 130px;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+
+h2 {
+	margin-top: -15px;
+}
+
+.select01 input {
+	margin-top: -40px
+}
+
+h3 {
+	margin-top: -5px
+}
+
+h4 {
+	margin-top: -4px
+}	
+
+.gluten img {
+    width: 80px;
+    margin-top: -38px;
+    margin-left: 25px;
+}
+
+.lactose img{
+    width: 80px;
+    margin-top: -80px;
+    margin-left: 100px;
+}
+
+.arachides img {
+    width: 80px;
+    margin-top: -80px;
+    margin-left: 175px;
+}
+
+.vegan img {
+    width: 80px;
+    margin-top: -80px;
+    margin-left: 250px;
+}
+
+.plus img {
+    width: 80px;
+    margin-top: -80px;
+    margin-left: 325px;
+}
+
+h5 {
+	margin-top: 15px
+}
+
+.croix img {
+    margin-top: -38px;
+    width: 100px;
+    margin-left: 20px;
+}
+
+.perte img {
+    margin-top: -100px;
+    width: 100px;
+    margin-left: 115px;
+}
+
+.reduire img {
+    width: 100px;
+    margin-top: -100px;
+    margin-left: 210px;
+}
+
+.prise img {
+    width: 100px;
+    margin-top: -100px;
+    margin-left: 305px;
+}
+
+h6 {
+	margin-top: 15px;
+}
+
+.barre01 img {
+    margin-top: -30px;
+    width: 200px;
+    margin-left: 38px;
+}
+
+.barre02 img  {
+    width: 200px;
+    margin-top: -5px;
+    margin-left: 38px;
+}
+
+.barre03 img {
+    width: 200px;
+    margin-left: 38px;
+    margin-top: 5px;
+}
+
+.plus02 img {
+    width: 100;
+    margin-top: -80;
+    margin-left: 270;
+}
